@@ -1,0 +1,14 @@
+C:\Users\KYZER\source\repos\GreeetingApp\GreeetingApp\bin\Debug\net8.0\GreeetingApp.exe
+C:\Users\KYZER\source\repos\GreeetingApp\GreeetingApp\bin\Debug\net8.0\GreeetingApp.deps.json
+C:\Users\KYZER\source\repos\GreeetingApp\GreeetingApp\bin\Debug\net8.0\GreeetingApp.runtimeconfig.json
+C:\Users\KYZER\source\repos\GreeetingApp\GreeetingApp\bin\Debug\net8.0\GreeetingApp.dll
+C:\Users\KYZER\source\repos\GreeetingApp\GreeetingApp\bin\Debug\net8.0\GreeetingApp.pdb
+C:\Users\KYZER\source\repos\GreeetingApp\GreeetingApp\obj\Debug\net8.0\GreeetingApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KYZER\source\repos\GreeetingApp\GreeetingApp\obj\Debug\net8.0\GreeetingApp.AssemblyInfoInputs.cache
+C:\Users\KYZER\source\repos\GreeetingApp\GreeetingApp\obj\Debug\net8.0\GreeetingApp.AssemblyInfo.cs
+C:\Users\KYZER\source\repos\GreeetingApp\GreeetingApp\obj\Debug\net8.0\GreeetingApp.csproj.CoreCompileInputs.cache
+C:\Users\KYZER\source\repos\GreeetingApp\GreeetingApp\obj\Debug\net8.0\GreeetingApp.dll
+C:\Users\KYZER\source\repos\GreeetingApp\GreeetingApp\obj\Debug\net8.0\refint\GreeetingApp.dll
+C:\Users\KYZER\source\repos\GreeetingApp\GreeetingApp\obj\Debug\net8.0\GreeetingApp.pdb
+C:\Users\KYZER\source\repos\GreeetingApp\GreeetingApp\obj\Debug\net8.0\GreeetingApp.genruntimeconfig.cache
+C:\Users\KYZER\source\repos\GreeetingApp\GreeetingApp\obj\Debug\net8.0\ref\GreeetingApp.dll
