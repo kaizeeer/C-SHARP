@@ -1,0 +1,10 @@
+C:\Users\COMLAB507\source\repos\try\try\bin\Debug\@try.exe.config
+C:\Users\COMLAB507\source\repos\try\try\bin\Debug\@try.exe
+C:\Users\COMLAB507\source\repos\try\try\bin\Debug\@try.pdb
+C:\Users\COMLAB507\source\repos\try\try\obj\Debug\try.csproj.AssemblyReference.cache
+C:\Users\COMLAB507\source\repos\try\try\obj\Debug\try.Form1.resources
+C:\Users\COMLAB507\source\repos\try\try\obj\Debug\try.Properties.Resources.resources
+C:\Users\COMLAB507\source\repos\try\try\obj\Debug\try.csproj.GenerateResource.cache
+C:\Users\COMLAB507\source\repos\try\try\obj\Debug\try.csproj.CoreCompileInputs.cache
+C:\Users\COMLAB507\source\repos\try\try\obj\Debug\@try.exe
+C:\Users\COMLAB507\source\repos\try\try\obj\Debug\@try.pdb
