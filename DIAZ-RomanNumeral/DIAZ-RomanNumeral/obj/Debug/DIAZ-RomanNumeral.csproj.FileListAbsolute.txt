@@ -1,0 +1,10 @@
+C:\Users\KYZER\source\repos\DIAZ-RomanNumeral\DIAZ-RomanNumeral\bin\Debug\DIAZ-RomanNumeral.exe.config
+C:\Users\KYZER\source\repos\DIAZ-RomanNumeral\DIAZ-RomanNumeral\bin\Debug\DIAZ-RomanNumeral.exe
+C:\Users\KYZER\source\repos\DIAZ-RomanNumeral\DIAZ-RomanNumeral\bin\Debug\DIAZ-RomanNumeral.pdb
+C:\Users\KYZER\source\repos\DIAZ-RomanNumeral\DIAZ-RomanNumeral\obj\Debug\DIAZ-RomanNumeral.csproj.AssemblyReference.cache
+C:\Users\KYZER\source\repos\DIAZ-RomanNumeral\DIAZ-RomanNumeral\obj\Debug\DIAZ_RomanNumeral.Form1.resources
+C:\Users\KYZER\source\repos\DIAZ-RomanNumeral\DIAZ-RomanNumeral\obj\Debug\DIAZ_RomanNumeral.Properties.Resources.resources
+C:\Users\KYZER\source\repos\DIAZ-RomanNumeral\DIAZ-RomanNumeral\obj\Debug\DIAZ-RomanNumeral.csproj.GenerateResource.cache
+C:\Users\KYZER\source\repos\DIAZ-RomanNumeral\DIAZ-RomanNumeral\obj\Debug\DIAZ-RomanNumeral.csproj.CoreCompileInputs.cache
+C:\Users\KYZER\source\repos\DIAZ-RomanNumeral\DIAZ-RomanNumeral\obj\Debug\DIAZ-RomanNumeral.exe
+C:\Users\KYZER\source\repos\DIAZ-RomanNumeral\DIAZ-RomanNumeral\obj\Debug\DIAZ-RomanNumeral.pdb
