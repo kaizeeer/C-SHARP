@@ -1,0 +1,10 @@
+C:\Users\KYZER\source\repos\DIAZ-AlphabetSort\DIAZ-AlphabetSort\bin\Debug\DIAZ-AlphabetSort.exe.config
+C:\Users\KYZER\source\repos\DIAZ-AlphabetSort\DIAZ-AlphabetSort\bin\Debug\DIAZ-AlphabetSort.exe
+C:\Users\KYZER\source\repos\DIAZ-AlphabetSort\DIAZ-AlphabetSort\bin\Debug\DIAZ-AlphabetSort.pdb
+C:\Users\KYZER\source\repos\DIAZ-AlphabetSort\DIAZ-AlphabetSort\obj\Debug\DIAZ-AlphabetSort.csproj.AssemblyReference.cache
+C:\Users\KYZER\source\repos\DIAZ-AlphabetSort\DIAZ-AlphabetSort\obj\Debug\DIAZ_AlphabetSort.Form1.resources
+C:\Users\KYZER\source\repos\DIAZ-AlphabetSort\DIAZ-AlphabetSort\obj\Debug\DIAZ_AlphabetSort.Properties.Resources.resources
+C:\Users\KYZER\source\repos\DIAZ-AlphabetSort\DIAZ-AlphabetSort\obj\Debug\DIAZ-AlphabetSort.csproj.GenerateResource.cache
+C:\Users\KYZER\source\repos\DIAZ-AlphabetSort\DIAZ-AlphabetSort\obj\Debug\DIAZ-AlphabetSort.csproj.CoreCompileInputs.cache
+C:\Users\KYZER\source\repos\DIAZ-AlphabetSort\DIAZ-AlphabetSort\obj\Debug\DIAZ-AlphabetSort.exe
+C:\Users\KYZER\source\repos\DIAZ-AlphabetSort\DIAZ-AlphabetSort\obj\Debug\DIAZ-AlphabetSort.pdb

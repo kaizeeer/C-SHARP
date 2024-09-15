@@ -1,0 +1,10 @@
+C:\Users\KYZER\source\repos\DIAZ-PluralForm\DIAZ-PluralForm\bin\Debug\DIAZ-PluralForm.exe.config
+C:\Users\KYZER\source\repos\DIAZ-PluralForm\DIAZ-PluralForm\bin\Debug\DIAZ-PluralForm.exe
+C:\Users\KYZER\source\repos\DIAZ-PluralForm\DIAZ-PluralForm\bin\Debug\DIAZ-PluralForm.pdb
+C:\Users\KYZER\source\repos\DIAZ-PluralForm\DIAZ-PluralForm\obj\Debug\DIAZ-PluralForm.csproj.AssemblyReference.cache
+C:\Users\KYZER\source\repos\DIAZ-PluralForm\DIAZ-PluralForm\obj\Debug\DIAZ_PluralForm.Form1.resources
+C:\Users\KYZER\source\repos\DIAZ-PluralForm\DIAZ-PluralForm\obj\Debug\DIAZ_PluralForm.Properties.Resources.resources
+C:\Users\KYZER\source\repos\DIAZ-PluralForm\DIAZ-PluralForm\obj\Debug\DIAZ-PluralForm.csproj.GenerateResource.cache
+C:\Users\KYZER\source\repos\DIAZ-PluralForm\DIAZ-PluralForm\obj\Debug\DIAZ-PluralForm.csproj.CoreCompileInputs.cache
+C:\Users\KYZER\source\repos\DIAZ-PluralForm\DIAZ-PluralForm\obj\Debug\DIAZ-PluralForm.exe
+C:\Users\KYZER\source\repos\DIAZ-PluralForm\DIAZ-PluralForm\obj\Debug\DIAZ-PluralForm.pdb
